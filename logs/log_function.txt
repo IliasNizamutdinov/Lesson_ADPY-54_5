@@ -1,0 +1,11 @@
+2022-09-22 20:56; функция sum, аргументы: (10, 12), вернула 22 
+2022-09-22 20:56; функция subt, аргументы: (3, 455), вернула -452 
+2022-09-22 20:56; функция subt, аргументов нет, именованные аргументы: {'a': 10, 'b': 5}, вернула 5 
+2022-09-22 20:56; функция flat_generator, аргументы: (['Start', ['a', 'b', 'c', ['12', '22', ['33', '44']]], 'Midle', ['d', 'e', 'f', 'h', False, ['Что-то', 'Когда-нибудь'], [1, 2, 3, 4]], [1, 2, None], 'End'],), вернула <generator object flat_generator at 0x0000016633FA0900> 
+2022-09-22 20:56; функция flat_generator, аргументы: (['a', 'b', 'c', ['12', '22', ['33', '44']]],), вернула <generator object flat_generator at 0x0000016633FA09E0> 
+2022-09-22 20:56; функция flat_generator, аргументы: (['12', '22', ['33', '44']],), вернула <generator object flat_generator at 0x0000016633FA0820> 
+2022-09-22 20:56; функция flat_generator, аргументы: (['33', '44'],), вернула <generator object flat_generator at 0x0000016633FA0C80> 
+2022-09-22 20:56; функция flat_generator, аргументы: (['d', 'e', 'f', 'h', False, ['Что-то', 'Когда-нибудь'], [1, 2, 3, 4]],), вернула <generator object flat_generator at 0x0000016633FA09E0> 
+2022-09-22 20:56; функция flat_generator, аргументы: (['Что-то', 'Когда-нибудь'],), вернула <generator object flat_generator at 0x0000016633FA0C80> 
+2022-09-22 20:56; функция flat_generator, аргументы: ([1, 2, 3, 4],), вернула <generator object flat_generator at 0x0000016633FA0C80> 
+2022-09-22 20:56; функция flat_generator, аргументы: ([1, 2, None],), вернула <generator object flat_generator at 0x0000016633FA09E0> 
